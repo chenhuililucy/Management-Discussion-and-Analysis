@@ -1,5 +1,7 @@
-# MDA
-Open sourcing all 10-K MD&amp;A (management discussion and analysis) **1993 (JAN 01) - 2021 (NOV 04)**
+# Management Discussion and Analysis
+
+10-K MD&amp;A (management discussion and analysis) **1993 (JAN 01) - 2021 (NOV 04)**
+Extracted using parser written by Lucy Chenhui Li
 
 For **2019 - 2021**: download from this repo
 
